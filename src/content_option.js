@@ -24,17 +24,17 @@ const dataabout = {
 const worktimeline = [
   {
     jobtitle: "Digital Marketing Intern",
-    where: "DegreeMinusOne",
+    where: "Devhamlet",
     date: "2020",
   },
   {
     jobtitle: "Digital Marketing Lead",
-    where: "DegreeMinusOne",
+    where: "Devhamlet",
     date: "2021",
   },
   {
     jobtitle: "Digital Marketing Manager",
-    where: "DegreeMinusOne",
+    where: "Devhamlet",
     date: "2022",
   },
 ];
