@@ -84,10 +84,10 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://degreeminusone.com/wp-content/uploads/2022/11/Degree-Minus-One-Logo-260x34.png",
+    img: "https://images.unsplash.com/photo-1570126618953-d437176e8c79?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcGFueXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
-    link: "https://degreeminusone.com/",
+    link: "#",
   },
  
   
